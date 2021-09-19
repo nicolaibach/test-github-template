@@ -1,4 +1,4 @@
-# node-module-boilerplate
+# some node module
 
 > Boilerplate to kickstart creating a Node.js module
 
